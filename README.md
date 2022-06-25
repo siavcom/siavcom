@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siavcom (Fernando Cuadras Angulo) Software Engineer, Data base expert  (MSSQL and Postgres) and VFP.
 - 👀 I’m interested in Web ERP  
-- 🌱 I’m currently learning Vue 3 , Node JS
-- 💞️ I’m looking to collaborate on data base conection from Vue to Node to Data base
+- 🌱 I’m currently developing a framwork for Vue 3 to use only a class in typescript with out web programing, using Vue 3, Node and Postgres. I'm in beta .
+- 💞️ I’m looking to collaborate on data base conection from Vue to Node to Data base (Postgres or MSSQL)
 - 📫 How to reach me : siavcom@hotmail.com, www.siavcom.com.mx 
 
 <!---
